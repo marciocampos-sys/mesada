@@ -1,6 +1,6 @@
 // Mesada de Marinna: funcionamento offline.
 // A cada atualização do app, aumente o número da versão abaixo.
-const VERSAO = 'mesada-v1';
+const VERSAO = 'mesada-v2';
 const ARQUIVOS = ['./', './index.html', './manifest.webmanifest', './icon-192.png', './icon-512.png', './icon-maskable-512.png', './apple-touch-icon.png'];
 
 self.addEventListener('install', e => {
